@@ -18,6 +18,19 @@ Né le 10 Juin 1992
 *Fort de trois années d'expérience de développement d'API dans un environement Java, 
 je cherche à explorer de technologies nouvelles telles que la cloudification, les micro-services, la conteneurisation, etc ...*
 
+## Centres d'intérêt
+
+### Jeux Vidéos
+Stratégie, Simulation, Gestion, (MMO)RPG, etc ...
+Passioné d'E-Sport
+
+### Cultures asiatiques
+Musique, manga, animation, jeux vidéos, etc ...
+Voyage régulier au Japon et en Corée du sud
+
+### Musique
+Guitare et piano en autodidacte, compositeur amateur
+
 ## Personnalité
 
 ### Test MBTI 
@@ -110,7 +123,7 @@ Japonais
 
 <div class= "print" markdown="1">
 
-Anglais : 80% / Japonais : 20%
+Anglais : 80% / Japonais, Coréen : 20%
 
 </div>
 
@@ -139,15 +152,7 @@ Dans le cadre d'une solution d'identification des demandeurs d’asile suite à 
 
 Gestion de Projet et Ingénierie d’Affaires en Technologie de l’Informations
 
-Associatif : Président du *Club ROCK ISEN*, Organisateur du *Rock'n'Lille*
-
-## Centres d'intérêt
-
-### Musique
-Guitare et piano en autodidacte, compositeur amateur
-
-### Danse
-Professeur de danse rock dans une association étudiante
+Association : Président du *Club ROCK ISEN*, Organisateur du *Rock'n'Lille 2015*
 
 <div class= "screen" markdown="1">
 
