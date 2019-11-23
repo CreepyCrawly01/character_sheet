@@ -22,10 +22,12 @@ je cherche à explorer de technologies nouvelles telles que la cloudification, l
 
 ### Jeux Vidéos
 Stratégie, Simulation, Gestion, (MMO)RPG, etc ...
+
 Passioné d'E-Sport
 
 ### Cultures asiatiques
 Musique, manga, animation, jeux vidéos, etc ...
+
 Voyage régulier au Japon et en Corée du sud
 
 ### Musique
